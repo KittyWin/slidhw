@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.img2{
+  width: 711px !important;
+  height: 405px !important;
+}
+
+.qwerty__text {
+  width: 50% !important;
+}
+
+.img{
+    width: 100px !important;
+    height: 77px !important;
+}
+
+.slider-for{
+  display: flex !important;
+  
+ 
+}
+
